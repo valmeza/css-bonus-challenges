@@ -1,6 +1,13 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Raleway, sans-serif;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Raleway, sans-serif;
+}
+
+body {
+  background: url("/img/forest.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
